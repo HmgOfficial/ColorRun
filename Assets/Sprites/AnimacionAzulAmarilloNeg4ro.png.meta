@@ -1,0 +1,536 @@
+fileFormatVersion: 2
+guid: 475260146fb7758419dbcec050d83482
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: AnimacionAzulAmarilloNeg4ro_0
+    21300002: AnimacionAzulAmarilloNeg4ro_1
+    21300004: AnimacionAzulAmarilloNeg4ro_2
+    21300006: AnimacionAzulAmarilloNeg4ro_3
+    21300008: AnimacionAzulAmarilloNeg4ro_4
+    21300010: AnimacionAzulAmarilloNeg4ro_5
+    21300012: AnimacionAzulAmarilloNeg4ro_6
+    21300014: AnimacionAzulAmarilloNeg4ro_7
+    21300016: AnimacionAzulAmarilloNeg4ro_8
+    21300018: AnimacionAzulAmarilloNeg4ro_9
+    21300020: AnimacionAzulAmarilloNeg4ro_10
+    21300022: AnimacionAzulAmarilloNeg4ro_11
+    21300024: AnimacionAzulAmarilloNeg4ro_12
+    21300026: AnimacionAzulAmarilloNeg4ro_13
+    21300028: AnimacionAzulAmarilloNeg4ro_14
+    21300030: AnimacionAzulAmarilloNeg4ro_15
+    21300032: AnimacionAzulAmarilloNeg4ro_16
+    21300034: AnimacionAzulAmarilloNeg4ro_17
+    21300036: AnimacionAzulAmarilloNeg4ro_18
+    21300038: AnimacionAzulAmarilloNeg4ro_19
+    21300040: AnimacionAzulAmarilloNeg4ro_20
+  externalObjects: {}
+  serializedVersion: 5
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: AnimacionAzulAmarilloNeg4ro_0
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 1712
+        width: 383
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea567523ab58f7542b23fb3d56a7e250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimacionAzulAmarilloNeg4ro_1
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 1714
+        width: 346
+        height: 448
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b592edc274f86d44a4bfa97be368996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimacionAzulAmarilloNeg4ro_2
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 1712
+        width: 344
+        height: 443
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d853f1014ac8324392dd2c24fdb4109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimacionAzulAmarilloNeg4ro_3
+      rect:
+        serializedVersion: 2
+        x: 1658
+        y: 1726
+        width: 381
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3335db77ded4e804b993fa23b6b65658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimacionAzulAmarilloNeg4ro_4
+      rect:
+        serializedVersion: 2
+        x: 2077
+        y: 1700
+        width: 337
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98ab7f5732c39fc4d9980dcec0311fce
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimacionAzulAmarilloNeg4ro_5
+      rect:
+        serializedVersion: 2
+        x: 2488
+        y: 1712
+        width: 245
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c566cf0a08c5f847b2dbfcc53ac72ff
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimacionAzulAmarilloNeg4ro_6
+      rect:
+        serializedVersion: 2
+        x: 2823
+        y: 1713
+        width: 342
+        height: 439
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87f302144a050d84f9cdc39c7a08fdaf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimacionAzulAmarilloNeg4ro_7
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 1068
+        width: 384
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d61f166234d9544497898e19c8fa9b1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimacionAzulAmarilloNeg4ro_8
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 1068
+        width: 317
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4990eb9f8e95bd4488999b2807b043b8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimacionAzulAmarilloNeg4ro_9
+      rect:
+        serializedVersion: 2
+        x: 1179
+        y: 1067
+        width: 305
+        height: 359
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0522f44021c0064f850bc4438fe37f9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimacionAzulAmarilloNeg4ro_10
+      rect:
+        serializedVersion: 2
+        x: 1589
+        y: 1082
+        width: 351
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b87e758813003474293725603166d556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimacionAzulAmarilloNeg4ro_11
+      rect:
+        serializedVersion: 2
+        x: 2007
+        y: 1054
+        width: 298
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 849f4cfb736ed7b4592b6e13507d1e97
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimacionAzulAmarilloNeg4ro_12
+      rect:
+        serializedVersion: 2
+        x: 2418
+        y: 1068
+        width: 214
+        height: 351
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 967f6a2e33ef5a245bff5b71899f6d41
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimacionAzulAmarilloNeg4ro_13
+      rect:
+        serializedVersion: 2
+        x: 2756
+        y: 1070
+        width: 316
+        height: 346
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42190a202e3f71944bc842585d22f390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimacionAzulAmarilloNeg4ro_14
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 445
+        width: 391
+        height: 380
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 088c15ac5d341e8419fe09d5962e2d75
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimacionAzulAmarilloNeg4ro_15
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 470
+        width: 321
+        height: 379
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9386892cee07aa14280933b23f888353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimacionAzulAmarilloNeg4ro_16
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 451
+        width: 312
+        height: 398
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82c59091639990149a80d47277da0287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimacionAzulAmarilloNeg4ro_17
+      rect:
+        serializedVersion: 2
+        x: 1507
+        y: 454
+        width: 358
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c95d842ae22d9d4aa46b980ce4dfdc6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimacionAzulAmarilloNeg4ro_18
+      rect:
+        serializedVersion: 2
+        x: 1930
+        y: 463
+        width: 298
+        height: 386
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 063089e35df16bd4ab83047725d57105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimacionAzulAmarilloNeg4ro_19
+      rect:
+        serializedVersion: 2
+        x: 2332
+        y: 421
+        width: 224
+        height: 422
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b7cf7baa9109114ebf08505f9d2a2df
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimacionAzulAmarilloNeg4ro_20
+      rect:
+        serializedVersion: 2
+        x: 2670
+        y: 445
+        width: 325
+        height: 392
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15d91224e03e24f4f88272bb9d583b8e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 72ae896e34094434e84bcefd03bd9e2d
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
